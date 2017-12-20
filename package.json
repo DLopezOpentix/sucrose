@@ -1,5 +1,5 @@
 {
-  "name": "sucrose",
+  "name": "@sugarcrm/sucrose-sugar",
   "version": "0.7.5",
   "description": "Interactive Charts for Business Applications",
   "keywords": [
@@ -61,8 +61,7 @@
     "temp-directory": ".coverage"
   },
   "dependencies": {
-    "d3": "4.9.1",
-    "topojson": "^1.6.26"
+    "@sugarcrm/d3-sugar": "4.9.1"
   },
   "devDependencies": {
     "cldr": "^4.5.0",
